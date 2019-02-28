@@ -1,0 +1,30 @@
+
+
+
+h3{
+    color: orange;
+    font-size: 25px;
+
+}
+.siteslist,.specialitylist,.contactslist{
+    font-size: 25px;
+}
+ul li{
+    padding: 5px;
+}
+.speciality{
+    margin-left: 150px;
+}
+.sites{
+    margin-left: 100px;
+    margin-right: 200px;
+    color: white;
+}
+.contact{
+    margin-left: 200px;
+}
+.footer{
+    background:black;
+    color: white;
+    display: flex;
+}
